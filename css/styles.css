@@ -11224,7 +11224,8 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: ligthgray;
+  /* outline-color: #d48a6e; */
+  outline-color: #362a2a;
 }
 
 @media (min-width: 992px) {
